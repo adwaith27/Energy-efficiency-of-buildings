@@ -1,0 +1,11 @@
+apiVersion: 1
+
+providers:
+  - name: Energy Efficiency
+    orgId: 1
+    folder: Energy Efficiency
+    type: file
+    disableDeletion: false
+    editable: true
+    options:
+      path: /var/lib/grafana/dashboards

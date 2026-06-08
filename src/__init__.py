@@ -1,0 +1,1 @@
+"""Energy efficiency modeling package."""
