@@ -355,7 +355,3 @@ reports/
 ```
 
 This keeps the repository lightweight while allowing anyone to regenerate the outputs from the included dataset.
-
-## License
-
-Add your preferred license before publishing the repository.
